@@ -33,3 +33,22 @@
   gap: 20px;
   margin-bottom: 22px;
 }
+@media (max-width: 510px) {
+  .solucao{
+    font-size: 34px;
+  }
+  .equacao{
+    font-size: 22px;
+  }
+  .calculadoraHeader {
+    padding-block: 25px;
+  }
+  .calculadora {
+    padding: 20px;
+    border-radius: 20px;
+  }
+  .linhas {
+    gap: 20px;
+    margin-bottom: 15px;
+  }
+}
